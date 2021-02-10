@@ -1,0 +1,34 @@
+{
+  "image_path": "C:\\Users\\HP\\Desktop\\Projects\\Python\\Tiles ROI\\examples\\imgs\\02.jpeg",
+  "roi": [
+    [
+      250,
+      280,
+      300,
+      350
+    ],
+    [
+      200,
+      280,
+      250,
+      350
+    ],
+    [
+      200,
+      210,
+      250,
+      280
+    ],
+    [
+      250,
+      210,
+      300,
+      280
+    ]
+  ],
+  "image_size": [
+    586,
+    872
+  ],
+  "label": "flowers"
+}
