@@ -73,7 +73,8 @@ class App(tk.Tk):
 
     def init_style(self):
         self.style = ttk.Style()
-        self.style.theme_use('vista')
+        try: self.style.theme_use('vista')
+        except: pass
 
     def init_ui(self):
         NAV = ttk.Frame(self)
